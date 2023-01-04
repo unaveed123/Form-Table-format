@@ -1,0 +1,123 @@
+#Registration{
+width: 700px;
+border: 2px solid black;
+background-color: blueviolet;
+border-radius: 30px;
+height: 800px;
+margin-left: 400px;
+}
+h1{
+    background-color: blanchedalmond;
+    font-style: oblique;
+    padding: 15px 0px 15px  40px;
+    border: 2px solid black;
+    margin: 20px;
+    border-radius: 20px;
+}
+label{
+    padding: 15px;
+    margin: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: larger;
+    text-decoration: underline;
+}
+input{
+padding: 10px;
+border: 1px solid black;
+border-radius: 20px;
+margin-left: 90px;
+margin-top: 5px;
+margin-bottom: 10px;
+width: 200px;
+}
+#submit{
+background-color: brown;
+margin-left: 500px;
+margin-top: 40px;
+width: 100px;
+}
+#male{
+    margin: 0px;
+}
+#Female{
+    margin: 0px;
+}
+#M1{
+    margin-left: 60px;
+}
+body{
+    /* background-image: url(./image/11.jpg); */
+    background-size: cover;
+    background-color: #C0DEFF;
+}
+#Students{
+    border: 3px solid white;
+    width: 500px;
+    margin-left: 400px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    background-color: aqua;
+    border: white solid;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 15px 0px 15px 30px;
+    font-style: oblique;
+    font-size: x-large;
+}
+table{
+    border: 2px solid black;
+    margin-left: 80px;
+    background-color: burlywood;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid white;
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: black;
+    color: white;
+}
+td{
+    border: 1px solid gray;
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+    font-style: italic;
+}
+ul{
+    list-style-type: none;
+    background-color: lightsteelblue;
+    border: 2px solid black;
+    text-align: center;
+    margin: 20px;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+}
+li{
+    display: inline-block;
+}
+li a{
+    display: block;
+    color: blueviolet;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+li a:hover{
+ background-color: white;    
+ /* padding: 15px; */
+
+}
+.nav{
+    position: static;
+     margin: 0px;
+    left: 400px;
+}
